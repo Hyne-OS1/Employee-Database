@@ -53,6 +53,9 @@ by Casey Layne Hyne
 * Email - Chyne1000@gmail.com
 * GitHub - [Hyne-OS1](https://github.com/Hyne-OS1/)
 
+## Future Updates
+
+* Adding a working delete function for roles, employees and departments
 
 ## Contributors
 
