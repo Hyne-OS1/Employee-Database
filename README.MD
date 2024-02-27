@@ -11,6 +11,24 @@ by Casey Layne Hyne
 * [License](#license)
 * [Links](#links)
 
+## Screenshots
+
+![screenshot 1](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/53add721-9a37-40ce-9690-2f10b81c29ee)
+
+![screnshot 2](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/7bb6ddbf-3ab9-4529-a9a9-34f72015d44f)
+
+![screenshot 3](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/c3a311cf-5d80-42a7-b878-9e21e76275fd)
+
+![screenshot 4](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/c132840d-86ae-4121-bbb1-ea4539fad7de)
+
+![screenshot 5](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/354f93a0-990c-44d1-b9fc-1b1740353d51)
+
+![screenshot 6](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/3c341c40-acf0-4008-83ae-46922b514387)
+
+![screenshot 7](https://github.com/Hyne-OS1/Employee-Database/assets/146906218/5b6c134c-5e01-40e8-888a-48117e749034)
+
+
+
 ## Description
 
 * This project encompasses the use of node.js in combination with 2 main npm installer packages for code functionality and one additional package for visual aid in user terminal (npm inquirer, mysql2, console-table-printer).
